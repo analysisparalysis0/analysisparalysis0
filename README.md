@@ -3,7 +3,7 @@
 <h1>👋 Hi, I’m Aditya</h1>
 - This is the account for my channel Analysis Paralysis
 
-- 👀 I’m interested in Development, Fintech, Crypto and Infrastructure
+- 👀 I’m interested in Web Development, Fintech, Crypto and Infrastructure
 
 - 📫 How to reach me : [Socials](#social)
 
