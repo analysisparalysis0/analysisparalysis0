@@ -1,6 +1,7 @@
 
 
-<h1>👋 Hi, I’m Analysis Paralysis</h1>
+<h1>👋 Hi, I’m Aditya</h1>
+- This is the account for my channel Analysis Paralysis
 - 👀 I’m interested in Development, Fintech, Crypto and Infrastructure
 - 📫 How to reach me : [social](#social)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)
@@ -26,6 +27,6 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>
 </h3>
 
-some fancy lines: 
+<h3>Some fancy lines: </h3>
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=analysisparalysis0&theme=github)
